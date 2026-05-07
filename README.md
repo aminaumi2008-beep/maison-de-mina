@@ -1,2 +1,2 @@
-# maison-de-mina
+# maison-de-mina-store
 Elegant fashion e-commerce website for Masion de Mina built with Next.js and Tallwind CSS
